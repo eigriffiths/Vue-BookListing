@@ -1,9 +1,7 @@
 <template>
-  <div>
-    <ul>
+
       <li>{{ book.author }}</li>
-    </ul>
-  </div>
+
 </template>
 <script>
 export default {
